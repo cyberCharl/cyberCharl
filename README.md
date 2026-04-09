@@ -9,7 +9,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> Systems & Partnerships at AI Safety South Africa. Building agentic infrastructure, impact tooling, and a handful of tools that scratch my own itches. Deep in the Gyre — an autonomous coding agent loop I'm building one piece at a time.
+> Systems & Partnerships at AI Safety South Africa. Building agentic infrastructure, impact tooling, and a handful of personal tools to improve my workflow. Eagerly exploring agent harnesses.   
 
 ## Current Projects
 
@@ -37,9 +37,9 @@ A system of small, sharp tools that let AI coding agents run autonomously agains
 
 ## What I'm Thinking About
 
+- Agent Harness & Context Engineering for reliable, safe agent based work
 - Agentic accountability infrastructure — trust, consent, and audit for autonomous agent systems
 - AI safety applied at community and regional scale (sub-Saharan Africa)
-- Product paths in AI infrastructure
 
 ---
 
