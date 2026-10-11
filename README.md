@@ -1,6 +1,6 @@
 # Hi, I'm Charl
 
-I'm a technologist based in Cape Town, building [Cerulean Works](https://cerulean-works.com): my independent workshop for software, machines, experiments, and field notes. I build useful things, investigate technologies I care about, and document what I learn along the way.
+I'm a technologist based in Cape Town, building [Cerulean Works](https://cerulean-works.com): my independent workshop for software, machines, experiments, and field notes. I build things to explore problems and try out possible solutions, and document what I learn along the way.
 
 I'm drawn to where technology touches the physical world, and how we interact with our tools. My current work includes software for a more intentional digital diet, writing about digital sovereignty, and the beginnings of a physical workshop.
 
