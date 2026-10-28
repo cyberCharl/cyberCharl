@@ -1,6 +1,6 @@
 # Hi, I'm Charl
 
-I'm a technologist based in Cape Town, building [Cerulean Works](https://cerulean-works.com): my independent workshop for software, machines, experiments, and field notes. I build things to explore problems and try out possible solutions, and document what I learn along the way.
+I'm a technologist based in Cape Town, building [Cerulean Works](https://cerulean-works.com): my independent workshop for software, electronics, woodwork, and other experiments. I build things to explore problems and try out possible solutions, and document what I learn along the way.
 
 I'm drawn to where technology touches the physical world, and how we interact with our tools. My current work includes software for a more intentional digital diet, writing about digital sovereignty, and the beginnings of a physical workshop.
 
@@ -18,4 +18,4 @@ I have a background in Computer Science and Applied Statistics, with experience 
 - **[AISSA monorepo](https://github.com/AI-Safety-SA/aissa-mono)** — applications for AI Safety South Africa, including a dashboard for tracking programmes, events, projects, and impact, and the public website.
 - **Gyre (paused)** — experiments in autonomous coding infrastructure: [Drydock](https://github.com/cyberCharl/drydock) tracks work items and agent runs through a REST API and Rust CLI; [Dogwatch](https://github.com/cyberCharl/dogwatch) monitors pull requests, CI, and review state.
 
-[Letters](https://ceruleanworks.substack.com/) · [About](https://cerulean-works.com/about/) · [Email](mailto:hello@cerulean-works.com)
+[Letters](https://ceruleanworks.substack.com/) · [About](https://cerulean-works.com/about/)
