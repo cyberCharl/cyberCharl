@@ -2,7 +2,7 @@
 
 I'm a technologist based in Cape Town, building [Cerulean Works](https://cerulean-works.com): my independent workshop for software, electronics, woodwork, and other experiments. I build things to explore problems and try out possible solutions, and document what I learn along the way.
 
-I'm drawn to where technology touches the physical world, and how we interact with our tools. My current work includes software for a more intentional digital diet, writing about digital sovereignty, and the beginnings of a physical workshop.
+I want to help create a world where technology is made to serve and benefit people and society broadly. My current work includes software for a more intentional digital diet and the beginnings of a physical workshop.
 
 ## Currently building
 
